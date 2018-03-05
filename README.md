@@ -5,7 +5,7 @@ https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/tree/master/img
 https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/img/logo.png
 
 
-## Desarrollo de un juego en html y css
+## Desarrollo de un formulario con autocorrección
 ---
 #### Se trata de desarrollar un formulario con 10 preguntas de diferentes tipos.
 ### 2- Colección de imágenes para el proyecto en la carpeta `img`
