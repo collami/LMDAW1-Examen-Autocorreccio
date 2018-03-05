@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="questions.xsd">
+<question id='profe001'>
+		<type>select</type>
+		<title>1-¿Cuáles de estas son marcas para la inserción del código JavaScript en las páginas HTML?</title>
+		<option>a)< javascript _code > y < /javascript_code ></option>
+		<option>b)< script > y < /script ></option> 
+		<option>c)< ?script > y < script? ></option>
+		<answer>1</answer>
+	</question>
+	<question id='profe002'>
+		<type>select</type>
+		<title>2-¿Cuál de estas instrucciones está correctamente escrita en Javascript?</title>
+		<option>a)if (a==0) { print [a] }</option>
+		<option>b)if (a==0): print a;</option> 
+		<option>c)if (a==0) alert (a);</option>
+		<option>d)if (a=0) print a;</option>
+		<answer>2</answer>
+	</question>
+	<question id='profe003'>
+		<type>multiple</type>
+		<title>3-Selecciona la respuesta/s correcta/s</title>
+		<option>a)JavaScript (abreviado comúnmente JS) es un lenguaje de programación no interpretado</option>
+		<option>b)Java y JavaScript tienen semánticas y propósitos diferentes</option> 
+		<option>c)JavaScript fue desarrollado originalmente por Brendan Eich de Netscape con el nombre de Mocha</option> 
+		<option>d)El uso más común de JavaScript es escribir funciones embebidas o incluidas en páginas HTML y que interactúan con el Document Object Model de la página</option>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+	</question>
+	<question id='profe004'>
+		<type>multiple</type>
+		<title>4-¿Selecciona la respuesta/s correcta/s acerca de las características de Javascript</title>
+		<option>a)Es multiplataforma</option>
+		<option>b)Es orientado a objetos y eventos</option> 
+		<option>c)Javascript no es estructurado</option> 
+		<option>d)Es liviano</option>
+		<option>e)Es un lenguaje interpretado</option> 
+		<answer>0</answer>
+		<answer>1</answer>
+		<answer>3</answer>
+		<answer>4</answer>
+	</question>
+	<question id='profe005'>
+		<type>text</type>
+		<title>5-¿Cuál es la instrucción usada para devolver un valor en una función de JavaScript?</title>
+		<answer>return</answer>
+	</question>
+	<question id='profe006'>
+		<type>text</type>
+		<title>6-¿En qué lugar se ejecuta generalmente el código JavaScript?</title>
+		<answer>servidor</answer>
+	</question>
+	<question id='profe007'>
+		<type>radio</type>
+		<title>7-¿Qué operador se usa para conocer el tipo de una variable u objeto?</title>
+		<option>a)type</option>
+		<option>b)is_a?</option> 
+		<option>c)isinstance</option>
+		<option>d)typeof</option>
+		<answer>3</answer>
+	</question>
+	<question id='profe008'>
+		<type>radio</type>
+		<title>8-¿Cuál de las siguientes funciones devuelve el resultado ["a", "b", "c", "d", "e", "f"]?</title>
+		<option>a)["a", "b", "c"].concat(["d", "e", "f"])</option>
+		<option>b)["a", "b", "c"].merge(["d", "e", "f"])</option> 
+		<option>c)["a", "b", "c"].join(["d", "e", "f"])</option>
+		<option>d)["a", "b", "c"].split(["d", "e", "f"])</option>
+		<answer>0</answer>
+	</question>
+	<question id='profe009'>
+		<type>checkbox</type>
+		<title>9-Selecciona la/s respuesta/s incorrecta/s</title>
+		<option>a)El código del script debe descargarse completamente antes de poderse ejecutar</option>
+		<option>b)El código es visible y puede ser leído por cualquiera</option> 
+		<option>c)El código Javascript se ejecuta en el servidor</option> 
+		<option>d)Los usuarios tienen la opción de desactivar JavaScript desde su navegador</option>
+		<answer>2</answer>
+	</question>
+	<question id='profe010'>
+		<type>checkbox</type>
+		<title>10-Selecciona librerías de Javascript</title>
+		<option>a)Mootols</option>
+		<option>b)Drap</option> 
+		<option>c)JQuery</option> 
+		<option>d)YUI</option>
+		<option>e)JPointer</option> 
+		<option>f)AOS</option>
+		<answer>0</answer>
+		<answer>2</answer>
+		<answer>3</answer>
+		<answer>5</answer>
+	</question>
+</questions>
