@@ -7,8 +7,8 @@
 ### 1- Colección de imágenes para el proyecto en la carpeta `img`
 ### 2- Colección de ficheros css para el proyecto en la carpeta `css`
 ### 3- Fichero javascript js para el proyecto en la carpeta `js`
-### 4- Ficheros xml con las preguntas del test en la carpeta `xml`, (el fichero questions.xml utilizado en el javascript se encuentra dentro de la carpeta dtd).
-### 5- Fichero json con las preguntas del test en la carpeta `json`, ( no se ha utilizado en este proyecto, porque se ha optado por la opción del fichero xml).
+### 4- Ficheros xml con las preguntas del test en la carpeta `xml`, (el fichero questions.xml utilizado en el javascript se encuentra dentro de la carpeta `dtd`).
+### 5- Fichero json con las preguntas del test en la carpeta `json`, ( no se ha utilizado en este proyecto porque se ha optado por la opción del fichero xml).
 ### 6- El fichero principal es:`index.html`, contiene la portada y las instrucciones del test así como el enlace al mismo.
 ### 7- El fichero con el test es:`test.html`
 ### 6- La rama `Minify` contiene el proyecto con los ficheros html, css, xml, json y js minimificados.
