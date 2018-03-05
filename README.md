@@ -12,9 +12,9 @@ https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/img/logo.png
 ### 3- Colección de ficheros css para el proyecto en la carpeta `css`
 ### 4- Fichero javascript js para el proyecto en la carpeta `js`
 ### 5- El fichero principal es:`index.html`
-### 6- La rama `Minify` contiene el proyecto con los ficheros html, css y js minimificados.
+### 6- La rama `Minify` contiene el proyecto con los ficheros html, css, xml, json y js minimificados.
 ### 7- La url en Rawgit de `index.html` es: https://rawgit.com/collami/LMDAW1-Examen-Autocorreccio/master/index.html
-### 8- Los ficheros html, css y js están identados y validados.
+### 8- Los ficheros html, css, xml, json y js están identados y validados.
 
 
 ## Observaciones:
